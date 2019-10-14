@@ -1,0 +1,22 @@
+body {
+	  font-family: times;
+    background-color: #FF6458;
+}
+form {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+ul {
+    border: 15px;
+    list-style: none;
+}
+button, input {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 7px 7px;
+  background-color: white;
+}
+.Hidden {
+    display : none;
+}
